@@ -53,7 +53,7 @@ Toda esta información, la pueden obtener ejecutando
 ```
 subtitlesTranslator.py -h
 ```
-# Autores
+# Autor
 Marco Weihmüller
 
 # Licencia
