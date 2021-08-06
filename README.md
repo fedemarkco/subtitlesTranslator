@@ -53,8 +53,8 @@ Toda esta información, la pueden obtener ejecutando
 ```
 subtitlesTranslator.py -h
 ```
-# Autor
+## Autor
 Marco Weihmüller
 
-# Licencia
+## Licencia
 Este proyecto está bajo la Licencia GNU General Public License v3.0
